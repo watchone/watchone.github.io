@@ -1,0 +1,18 @@
+<addon id="script.module.pydevd" name="pydevd" version="2021.02.22" provider-name="kasi45">
+	<requires>
+		<import addon="xbmc.python" version="3.0.0"/>
+	</requires>
+	<extension point="xbmc.python.module" library="lib"/>
+	<extension point="xbmc.addon.metadata">
+	    <summary lang="en">Kodi 19 support for PyDev remote debugging in PyCharm.</summary>
+	    <description lang="en">PyCharm Version 2017.3.2 (build 173.4127.16) pycharm-debug-py3k.egg </description>
+	    <platform>all</platform>
+	    <language></language>
+	    <license>PyCharm Public License</license>
+	    <forum></forum>
+	    <website>http://pydev.org/</website>
+	    <source></source>
+	    <email></email>
+	    <disclaimer lang="en">Use at your own risk. The author accept no liability.</disclaimer>	
+	</extension>
+</addon>
