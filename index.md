@@ -57,7 +57,7 @@ Hier bieten wir den xShip Player Link an. Damit könnt Ihr ganz bequem den xShip
 Kopiert den Link in die The MovieDB Helper Einstellungen unter Abspieler und klickt auf Download.
 Und schon wird der xShip Player heruntergeladen und installiert.
 
-<p><a href="https://tinyurl.com/xship-tmdb">https://tinyurl.com/xship-tmdb<strong>xShip TMDb Player Link</strong></a></p>
+<p><a href="https://tinyurl.com/xship-tmdb">https://tinyurl.com/xship-tmdb		<strong>xShip TMDb Player Link</strong></a></p>
 
 * * *
 
