@@ -2,7 +2,7 @@
 
 # xShip - Das Original
 
-![xShip logo](https://)
+![xShip logo](https://raw.githubusercontent.com/watchone/watchone.github.io/gh-pages/assets/img/logo.png)
 
 Willkommen auf der unserer xShip Github Seite.
 
