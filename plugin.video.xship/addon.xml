@@ -23,8 +23,7 @@
         <language>de</language>
 		<platform>all</platform>
 		<license>GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007</license>
-        <website>https://tiny.on/xship</website>
-		<source>https://github.com/watchone/watchone.github.io</source>
+        <website>https://tiny.one/xship</website>
         <assets>
 			<icon>resources/icon.png</icon>
 			<fanart>resources/fanart.jpg</fanart>
