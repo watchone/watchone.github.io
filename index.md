@@ -39,7 +39,7 @@ Das xShip Team arbeitet gegen die illegalen Geldmacher denn xShip ist kostenlos 
 | Huhu           |    [x]    |       |            |
 | KinoGer        |    [x]    |       |            | 
 | Kinokiste      |    [x]    |       |            |
-| KKIste         |    [x]    |       |            |
+| KKiste         |    [x]    |       |            |
 | Megakino       |    [x]    |       |    [x]     |
 | Moflix         |    [x]    |       |            | 
 | Movie2k        |    [x]    |       |            |
