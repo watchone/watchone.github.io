@@ -1,14 +1,16 @@
-Version 5.1.152 (November 11, 2024)
+Version 5.1.154 (November 27, 2024)
 - Code Base Changes:
     - None
 
 - Resolvers Added:
-    - vinovo
+    - None
 
 - Resolvers Fixed/Updated:
-    - filelions
-    - filemoon
-    - turboviplay
+    - alldebrid
+    - debridlink
+    - realdebrid
+    - streamembed
+    - streamwish
     - voe
 
 - Resolvers Removed

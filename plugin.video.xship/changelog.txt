@@ -1,0 +1,11 @@
+[B]xShip Version: 2024.12.01[/B]
+
+01.12.2024 xS-Team-Dev
+
+- [xShip] Public Release
+- [xShip Repository] erstellt in der Version 1.5.0
+- [xShip TMDb Player] erstellt und zu Download bereit
+- [xShip Webseite] https://tiny.one/xship
+
+Viel Spaß mit xShip: Das Original.
+Das xShip-Team wünscht euch einen schönen 1. Advent.
