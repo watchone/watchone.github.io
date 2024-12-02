@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.video.xship" version="2024.12.02~nightly1" name="[B]xShip[/B]" provider-name="xShip-Team">
+<addon id="plugin.video.xship" version="2024.12.02" name="[B]xShip[/B]" provider-name="xShip-Team">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
         <import addon="script.module.requests"/>
