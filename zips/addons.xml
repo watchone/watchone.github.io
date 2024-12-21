@@ -50,42 +50,42 @@
   </extension>
 </addon>
 
-<addon id="repository.xship" name="xShip Repository" version="1.3" provider-name="Xship-Team">
-    <extension point="xbmc.addon.repository" name="xShip Repository">
-        <dir>
-            <info compressed="false">https://raw.githubusercontent.com/watchone/watchone.github.io/master/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/watchone/watchone.github.io/master/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/watchone/watchone.github.io/master/zips/</datadir>
+<addon id="repository.xship" name="[B]xShip Repository[/B]" version="1.5.0" provider-name="xShip-Team">
+	<extension point="xbmc.addon.repository" name="xShip Repository">
+		<dir minversion="18.9.701" maxversion="21.9.700">
+            <info compressed="false">https://raw.githubusercontent.com/watchone/watchone.github.io/repo/addons.xml</info>
+			<checksum verify="sha256">https://raw.githubusercontent.com/watchone/watchone.github.io/repo/addons.xml.sha256</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/watchone/watchone.github.io/repo/</datadir>
         </dir>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <summary>xShip Repository</summary>
-        <description>Repository for the installation of xShip</description>
-        <disclaimer></disclaimer>
-        <platform>all</platform>
-        <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
-        </assets>
-    </extension>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="de_DE">xShip Repository</summary>
+		<summary lang="en_GB">xShip Repository</summary>
+		<description lang="de_DE">Dies ist das offizielle xShip Repository.[CR]Bei der Bereitstellung einer neuen xShip Version, wird diese vor der Veröffentlichung auf Funktionalität geprüft. Sollten dennoch Probleme auftreten, benachrichtige bitte das offizielle xShip-Team via Telegram.</description>
+		<description lang="de_GB">This is the official xShip repository.[CR]When a new xShip version is released, it is tested for functionality before being released. If you still encounter problems, please notify the official xShip team via Telegram.</description>
+		<disclaimer lang="de_DE">Sie können dieses Video Addon gerne verwenden. Der bereitgestellte Inhalt der Webseiten steht in keinem Bezug zu xShip oder den Entwicklern! Weitere Informationen finden Sie auf unserer Github Seite.</disclaimer>
+		<disclaimer lang="en_GB">You are welcome to use this video addon. The content provided on the websites has no connection to xShip or the developers! For more information, see our Github page.</disclaimer>
+		<language>de en</language>
+		<platform>all</platform>
+		<license>GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007</license>
+		<website>https://tiny.one/xship</website>
+		<source></source>
+		<assets>
+			<icon>resources/icon.png</icon>
+			<fanart>resources/fanart.jpg</fanart>
+			<banner>resources/banner.png</banner>
+			<clearlogo>resources/clearlogo.png</clearlogo>
+			<screenshot></screenshot>
+		</assets>
+	</extension>
 </addon>
 
-<addon id="repository.xstream" name="xStream Repository" version="1.2.3" provider-name="xStream-Team">
+<addon id="repository.xstream" name="xStream Repository" version="1.2.4" provider-name="xStream-Team">
 	<extension point="xbmc.addon.repository" name="xStream Repository">
-		<dir minversion="18.9.701" maxversion="19.9.700">
-            <info compressed="false">https://raw.githubusercontent.com/streamxstream/xStreamRepo/repo/matrix/addons.xml</info>
-			<checksum verify="sha256">https://raw.githubusercontent.com/streamxstream/xStreamRepo/repo/matrix/addons.xml.sha256</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/streamxstream/xStreamRepo/repo/matrix/</datadir>
-        </dir>
-         <dir minversion="19.9.701" maxversion="20.9.700">
-            <info compressed="false">https://raw.githubusercontent.com/streamxstream/xStreamRepo/repo/nexus/addons.xml</info>
-			<checksum verify="sha256">https://raw.githubusercontent.com/streamxstream/xStreamRepo/repo/nexus/addons.xml.sha256</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/streamxstream/xStreamRepo/repo/nexus/</datadir>
-        </dir>
-		<dir minversion="20.9.910" maxversion="21.9.700">
-            <info compressed="false">https://raw.githubusercontent.com/streamxstream/xStreamRepo/repo/omega/addons.xml</info>
-			<checksum verify="sha256">https://raw.githubusercontent.com/streamxstream/xStreamRepo/repo/omega/addons.xml.sha256</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/streamxstream/xStreamRepo/repo/omega/</datadir>
+		<dir minversion="18.9.701" maxversion="21.9.700">
+            <info compressed="false">https://raw.githubusercontent.com/streamxstream/xStreamRepo/repo/zips/addons.xml</info>
+			<checksum verify="sha256">https://raw.githubusercontent.com/streamxstream/xStreamRepo/repo/zips/addons.xml.sha256</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/streamxstream/xStreamRepo/repo/zips/</datadir>
         </dir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
@@ -129,7 +129,7 @@
 	</extension>
 </addon>
 
-<addon id="script.module.resolveurl" name="ResolveURL" version="5.1.154" provider-name="gujal">
+<addon id="script.module.resolveurl" name="ResolveURL" version="5.1.156~nightly2" provider-name="gujal">
     <requires>
         <!-- <import addon="xbmc.python" version="3.0.0" /> -->
         <import addon="script.module.six" />
@@ -160,7 +160,7 @@
 
 <addon id="service.subtitles.opensubtitles"
        name="OpenSubtitles.org"
-       version="2024.2.9"
+       version="2024.3.01"
        provider-name="amet, opensubtitles, juokelis, kasi45">
 	<requires>
 		<import addon="script.module.requests"/>
